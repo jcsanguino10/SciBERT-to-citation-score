@@ -8,6 +8,8 @@ The training pipeline leverages the [SciBERT](https://huggingface.co/allenai/sci
 
 Both notebooks contains the same trainning, but using different metrics. Addtionally, the notebook named "... context-micro" also include the analysis about the recall and precision of the best model
 
+Checkpoints used on the research are available on hugging face hub: juansanguino/SciBERT-citation-score
+
 ## Features
 
 - Fine-tunes SciBERT on a custom citation function classification dataset.
